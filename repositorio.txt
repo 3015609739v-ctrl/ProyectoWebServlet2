@@ -1,0 +1,8 @@
+Nombre: Valentina V
+Proyecto: GA7-220501096-AA3
+Módulos:
+- Web (Servlet + JSP)
+- Stand-alone (Java consola)
+
+Descripción:
+Aplicación desarrollada en Java para cálculo de edad en entorno web y consola.
